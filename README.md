@@ -11,3 +11,6 @@ This Promise pattern implementation was created solely for academical reasons. T
 6) there is convenient method `catch`.<br/>
 
 This implemetation is simple(less than 100 lines), but it helps to understand how promise pattern can be implemented. This implementation do not pretend to be used in production environment. But it gives you idea of how promise pattern can be implemented.
+
+# Bonus
+can be used with `require.js` or `common.js`
